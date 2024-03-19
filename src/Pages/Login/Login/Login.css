@@ -1,0 +1,117 @@
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-container .login-form {
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 40px 30px;
+    margin: 60px 0;
+
+}
+.form-container .login-form .form-title {
+    font-size: 35px;
+    font-weight: 500;
+    color: black;
+    margin-top: 0;
+    text-align: center;
+}
+
+.form-container .login-form .input-group {
+    margin-bottom: 30px;
+}
+.form-container .login-form .input-group label {
+    display: block;
+    margin-left: 5px;
+    font-size: 18px;
+}
+.form-container .login-form .input-group .form-control {
+    width: 100%;
+    border: 1px solid gray;
+    box-sizing: border-box;
+    border-radius: 10px;
+    height: 50px;
+    font-size: 16px;
+    padding: 5px 15px;
+    
+}
+.form-container .login-form .input-group .form-control:focus {
+    outline: none;
+    box-shadow: none;
+    border-color: #ff6600;
+}
+
+.form-container .login-form .form-submit {
+    width: 100%;
+    padding: 10px 0;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background: #242634;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    border: 1px solid #ff6600;
+}
+.form-container .login-form .form-submit:hover {
+    color: #ff6600;
+}
+.form-container .login-form .form-link {
+    color: #ff6600;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.form-container .login-form .alternative-line {
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+.form-container .login-form .alternative-line::before {
+    content: '';
+    width: 45%;
+    height: 1px;
+    background-color: #ff6600;
+    position: absolute;
+    left: 0;
+    top: 12px;
+}
+.form-container .login-form .alternative-line::after {
+    content: '';
+    width: 45%;
+    height: 1px;
+    background-color: #ff6600;
+    position: absolute;
+    right: 0;
+    top: 12px;
+}
+
+.form-container .submit-google-btn:focus {
+    outline: none;
+    box-shadow: none;
+    border: none;
+}
+.form-container .submit-google-btn {
+    width: 100%;
+    height: 50px;
+    margin-top: 30px;
+    font-size: 18px;
+    color: #fff;
+    cursor: pointer;
+    background: #242634;
+    transition: all 0.3s ease-in-out;
+}
+.form-container .submit-google-btn:hover {
+    color: #ff6600;
+    background: #242634;
+}
+.form-container .submit-google-btn img {
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+    margin-right: 10px;
+}

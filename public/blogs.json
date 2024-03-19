@@ -1,0 +1,24 @@
+[
+    {
+        "id": 7,
+        "name": "Tips for Breaking in New Motorcycle Tires",
+        "price": "3100",
+        "description": "Some people believe that once you choose and purchase new tires for your motorcycle, you can forget about them for a while. However, this isn’t the case. ...",
+        "img": "https://i.ibb.co/5YFcSrp/blog1.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Helpful Tips to Make Your Motorcycle Tires Last Longer",
+        "price": "1350",
+        "description": "Some people believe that once you choose and purchase new tires for your motorcycle, you can forget about them for a while. However, this isn’t the case. ...",
+        "img": "https://i.ibb.co/wg0D1fm/blog2.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Tearing Up The Road and Helpful Tips to Make Your Motorcycle",
+        "price": "1800",
+        "description": "Some people believe that once you choose and purchase new tires for your motorcycle, you can forget about them for a while. However, this isn’t the case. ...",
+        "img": "https://i.ibb.co/MMGyTds/blog3.jpg"
+    }
+    
+]

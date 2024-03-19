@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Gloriori GSX 250 R",
+        "price": "3100",
+        "author": "Jhon Abraham",
+        "quantity": "20",
+        "description": "Efficiency Heating & Cooling is the go-to HVAC contractor that has stocked and ready service vehicles for AC repair! I get to you fast, and ready for any type of air conditioning repair.",
+        "img": "https://i.ibb.co/mNZkjYW/bike4.png"
+    },
+    {
+        "id": 2,
+        "name": "Klager GSX 250 R",
+        "price": "1350",
+        "author": "Abraham Linkon",
+        "quantity": "25",
+        "description": "I Provide high-performance infrared and dual technology sensors that complement the suite of outdoor intrusion detection solutions and are ideal as an additional security layering strategy.",
+        "img": "https://i.ibb.co/KrJ6tqV/bike5.png"
+    },
+    {
+        "id": 3,
+        "name": "Matrio Max",
+        "price": "1800",
+        "author": "Andrew Jonson",
+        "quantity": "18",
+        "description": "I can also replace or repair heat pumps, ductless mini splits, humidifiers, programmable thermostats. Whatever your heating and cooling needs are Efficiency Heating & Cooling can handle them all.",
+        "img": "https://i.ibb.co/p2PsDx3/bike6.png"
+    },
+    {
+        "id": 4,
+        "name": "Demonissi Gori",
+        "price": "1100",
+        "author": "Dell Karnak",
+        "quantity": "28",
+        "description": "I can also replace or repair heat pumps, ductless mini splits, humidifiers, programmable thermostats. Whatever your heating and cooling needs are Efficiency Heating & Cooling can handle them all.",
+        "img": "https://i.ibb.co/CthYkv6/bike7.png"
+    },
+    {
+        "id": 5,
+        "name": "Maxclon ZPE 54",
+        "price": "1280",
+        "author": "Kobir Bisnu",
+        "quantity": "24",
+        "description": "I Provide high-performance infrared and dual technology sensors that complement the suite of outdoor intrusion detection solutions and are ideal as an additional security layering strategy.",
+        "img": "https://i.ibb.co/VLSq6vh/bike8.png"
+    },
+    {
+        "id": 6,
+        "name": "Rigoniss Z 1000",
+        "price": "1500",
+        "author": "Hakim Chowdhury",
+        "quantity": "36",
+        "description": "This service provides the basic electrical repairing services such as fixing the wiring system of fans, switches, fuses, lights, electic meters, switch board and main control board etc.",
+        "img": "https://i.ibb.co/ygR55Jq/bike9.png"
+    }
+]

@@ -1,0 +1,59 @@
+
+.main-nav {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    background: #242634;
+    padding: 15px 0;
+}
+.main-nav .brand-logo {
+    /* width: 130px;
+    height: 60px; */
+    font-family: 'Saira Stencil One', cursive;
+    font-size: 30px;
+}
+
+.nav-menu {
+    align-items: center;
+}
+
+.nav-menu .link {
+    text-decoration: none;
+    margin-right: 25px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #6e7188;
+    transition: all 0.3s ease-in-out;
+    text-transform: uppercase;
+}
+.nav-menu a:hover {
+    color: #ffffff;
+}
+
+.active-link {
+    text-decoration: none;
+    margin-right: 25px;
+    font-size: 14px;
+    font-weight: 400;
+    transition: all 0.3s ease-in-out;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.nav-menu button.user-control {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    color: #6e7188;
+    transition: all 0.3s ease-in-out;
+    text-transform: uppercase;
+    background: transparent;
+    padding: 5px 15px;
+    border: 1px solid #6e7188;
+    background: transparent;
+}
+.nav-menu button.user-control:focus {
+    box-shadow: none;
+    outline: none;
+}
+.nav-menu button.user-control a {
+    margin: 0;
+}
